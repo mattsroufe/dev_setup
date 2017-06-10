@@ -4,7 +4,7 @@ set backspace=indent,eol,start
 
 syntax on
 
-colorscheme railscasts " https://github.com/jpo/vim-railscasts-theme/blob/master/colors/railscasts.vim
+colorscheme railscasts " https://raw.githubusercontent.com/jpo/vim-railscasts-theme/master/colors/railscasts.vim
 
 filetype plugin indent on
 
