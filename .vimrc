@@ -1,3 +1,4 @@
+set t_Co=256
 set nocompatible " vim settings rather than vi
 
 set backspace=indent,eol,start
